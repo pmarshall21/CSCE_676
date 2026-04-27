@@ -1,0 +1,8 @@
+!/checkpoints/
+!/data/
+!/notebooks/
+
+!.gitattributes
+!.gitignore
+!README.md
+!requirements.txt
