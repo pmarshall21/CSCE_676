@@ -38,6 +38,7 @@ For the purpose of reproducing the results identified in `main_notebook.ipynb`, 
 - Python Version: 3.12.13
 
 ## Repo Structure
+```
 ├── checkpoints
 │   ├── checkpoint_1.ipynb
 │   └── checkpoint_2.ipynb
@@ -55,6 +56,7 @@ For the purpose of reproducing the results identified in `main_notebook.ipynb`, 
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## Key Findings
 #### PageRank
